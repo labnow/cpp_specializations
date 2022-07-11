@@ -1,0 +1,3 @@
+9	11	12	15	
+Average value of the data is: 11.000 
+Maximum value of the data is: 15 
